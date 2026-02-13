@@ -15,7 +15,7 @@ KeepCup is an Australian-founded company (est. 2009) that pioneered the world’
   
 
 ## 🏗️ Data Pipeline Architecture
-![Pipeline Architecture](Assets/Pipeline%20Architecture.png)
+![Pipeline Architecture](Assets/Pipeline_Architecture.png)
 
 
 ## 🛠️ Tools & Technologies
